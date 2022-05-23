@@ -136,5 +136,5 @@ No GitHub, podemos criar um novo repositório e copiar o SSH em _push existing f
 
 Para verificar o fetch e push do nosso repositorio, podemos usar o comando `git remote -v`. 
 
-Por ultimo, usar `git status`para verificar se não há nenhuma pendencia de por fim `git puish origin master`para submeter para o repositório remoto nosso código.  
+Por ultimo, usar `git status`para verificar se não há nenhuma pendencia de por fim `git push origin master`para submeter para o repositório remoto nosso código.  
 
